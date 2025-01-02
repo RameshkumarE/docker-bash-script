@@ -1,0 +1,8 @@
+echo "hello world" >> filename.txt
+echo hello world >> filename.txt
+set nonumber
+set number
+cd ../..
+ll
+git branch -M master
+git branch _m main (default Main) 
